@@ -1,0 +1,39 @@
+   0 whoami
+   1 pwd
+   2 cd ..
+   3 ls
+   4 cd
+   5 cf
+   6 cd ..
+   7 cd home
+   8 ls
+   9 mkdir animals
+  10 ls
+  11 cd animals
+  12 mkdir cats
+  13 mkdir fish
+  14 ls
+  15 mkdir dogs
+  16 ls
+  17 cd home
+  18 cd cats
+  19 touch garfield.txt
+  20 ls
+  21 cd ..
+  22 tree
+  23 cd animals
+  24 cd dogs
+  25 touch pluto.txt
+  26 ls
+  27 cd ..
+  28 cd fish
+  29 touch nemo.txt
+  30 ls
+  31 cd ..
+  32 tree
+  33 ls
+  34 ls /
+  35 cd /opt/
+  36 cd
+  37 history
+  38 history > history_homework_animals_17_04.txt
